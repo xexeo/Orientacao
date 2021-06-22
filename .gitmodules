@@ -1,4 +1,4 @@
-[submodule "coop-writing"]
+[submodule "coop-writing"] 
 	path = coop-writing
 	url = ../coop-writing/
 [submodule "DicasConcursoProvaDeAula"]
