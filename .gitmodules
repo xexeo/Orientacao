@@ -1,24 +1,24 @@
 [submodule "coop-writing"]
 	path = coop-writing
-	url = ./coop-writing/
+	url = ../coop-writing/
 [submodule "DicasConcursoProvaDeAula"]
 	path = DicasConcursoProvaDeAula
-	url = ./DicasConcursoProvaDeAula/
+	url = ../DicasConcursoProvaDeAula/
 [submodule "DicasDeEscritaCientifica"]
 	path = DicasDeEscritaCientifica
-	url = ./DicasDeEscritaCientifica/
+	url = ../DicasDeEscritaCientifica/
 [submodule "DicasSlidesAcademicos"]
 	path = DicasSlidesAcademicos
-	url = ./DicasSlidesAcademicos/
+	url = ../DicasSlidesAcademicos/
 [submodule "Guia-da-Realiza-o-do-Doutorado"]
 	path = Guia-da-Realiza-o-do-Doutorado
-	url = ./Guia-da-Realiza-o-do-Doutorado/
+	url = ../Guia-da-Realiza-o-do-Doutorado/
 [submodule "Guia-da-Realiza-o-do-Mestrado"]
 	path = Guia-da-Realiza-o-do-Mestrado
-	url = ./Guia-da-Realiza-o-do-Mestrado/
+	url = ../Guia-da-Realiza-o-do-Mestrado/
 [submodule "task-report"]
 	path = task-report
-	url = ./task-report/
+	url = ../task-report/
 [submodule "GuiaDoOrientado"]
 	path = GuiaDoOrientado
-	url = ./GuiaDoOrientado/
+	url = ../GuiaDoOrientado/
