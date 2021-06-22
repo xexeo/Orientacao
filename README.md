@@ -1,6 +1,7 @@
 # Orientação
 
 Todos os documentos e dicas para ser um orientado de Geraldo Xexéo.
+Este repositório é uma agregação de vários outros, para unificar o acesso.
 
 ## Guias
 
