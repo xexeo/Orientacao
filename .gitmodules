@@ -22,3 +22,6 @@
 [submodule "GuiaDoOrientado"]
 	path = GuiaDoOrientado
 	url = ../GuiaDoOrientado/
+[submodule "Guia-da-Realizacao-do-TCC"]
+	path = Guia-da-Realizacao-do-TCC
+	url = ./Guia-da-Realizacao-do-TCC/
